@@ -1,6 +1,5 @@
 # Ticket-Booking-System
-This is a ticket booking system for a movie theater auditorium. 
-The program was developed using Visual Studio Code, and it is coded in Java. 
+This is a ticket booking system for a movie theater auditorium that uses linked lists to store data.
 
 The terminal is used to accept user input and print a final report including total sales, number of seats, etc.
 The final auditorium is printed to "A1.txt".
